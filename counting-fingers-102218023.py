@@ -7,7 +7,7 @@ endpoint_id = "1ef2e652-710a-42ef-9236-7f92dd73f3ae"
 api_key = "land_sk_7VVG8HeQUOjnENhi5ZoE6yL0H8sl4IURmmwvj7Zh6l620u1sGk"
 
 
-image_folder = "C:/Users/jasha/OneDrive/Desktop/New folder (6)"
+image_folder = "C:/Users/jasha/OneDrive/Desktop/Fingers-Images"
 output_csv = "output_results.csv"
 
 
